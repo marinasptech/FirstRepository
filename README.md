@@ -6,7 +6,7 @@
 
 <br>
 
-![Visualizações](https://komarev.com/ghpvc/?username=SEU-USUARIO&color=grey)
+![Visualizações](https://komarev.com/ghpvc/?username=marinasptech&color=grey)
 
 </div>
 
