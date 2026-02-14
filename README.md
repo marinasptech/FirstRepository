@@ -46,7 +46,8 @@ Mais do que uma atividade acadêmica, este projeto simboliza o início da minha 
 
 - Contato
 
-[![Email]](mailto:marina.ribeiro@sptech.school)
-[![LinkedIn]]([https://www.linkedin.com/in/SEU-LINK](http://linkedin.com/in/marina-santos-5743573b1))
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marina.ribeiro@sptech.school)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-santos-5743573b1)
 
 </div>
